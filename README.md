@@ -60,18 +60,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
 
 ---
 
-## 🏆 Featured Projects
 
-### Predictive Modeling for Healthier Alternatives
-- Developed a predictive model using Google Trends data and news headlines to optimize promotion strategies for healthier alternatives to substances like alcohol and marijuana.
-
-### Point of Sales Transaction Tracker
-- Created a table view to display payment transaction issues for over 350 stores using HTML, CSS, and JavaScript, with server integration for sample release data.
-
-### Proton Radius Puzzle Research
-- Measured electron and muon particle scattering cross-sections, addressing discrepancies in radius measurements with C++ and ROOT.
-
-### Gender Prediction Accuracy Assessment
----
 
 Thank you for stopping by! 😊 Feel free to explore my repositories and reach out to collaborate on exciting projects. Let’s build something amazing together!
