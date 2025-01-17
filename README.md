@@ -17,7 +17,11 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
   - Minors in Business Administration and Data Science
 
 - 💡 **Certifications**: 
-  - [Machine Learning Foundations e-Certificate](https://example.com) (Cornell University, Break Through Tech AI)
+  - [Machine Learning Foundations e-Certificate](https://media.licdn.com/dms/document/media/v2/D4E2DAQE3OJCO8KmV3A/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1726340790014?e=1738195200&v=beta&t=awybc_r_rB-KV7H5tCryLBMf8MCgTYLRC5NntZ69kMU) (Cornell University, Break Through Tech AI)
+  - [2024 Generative AI Certified Professional](https://catalog-education.oracle.com/ords/certview/sharebadge?id=EFF4284C55B199DFB34DFB555D389928BB147E97171BD89F03D5477CF9EDFAB6)
+  - [2024 AT&T Technology Learning Academy](https://www.credly.com/badges/365104c6-0ff0-4ee2-a3ad-8ef9a5095c11/public_url)
+  - [Physical Science Responsible Conduct of Research](https://www.citiprogram.org/verify/?w894ca570-399f-4864-81b0-9927d3cf212a-49259890)
+  - [2021 AT&T Summer Learning Academy Extern](https://www.credly.com/badges/4bd67482-0ff2-4a8e-aa18-cc7124c5dd04?source=linked_in_profile)
 
 - 💼 **Work Experience**: 
   - Learning Assistant at Rutgers Learning Centers
