@@ -57,12 +57,6 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
 
 ---
 
-## 📫 Let’s Connect
-
-- **Email**: [shreya.narayanan@rutgers.edu](mailto:shreya.narayanan@rutgers.edu)
-- **LinkedIn**: [Shreya Narayanan](https://linkedin.com/in/shreyaanarayanan)
-
----
 
 
 
