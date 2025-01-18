@@ -24,10 +24,11 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
   - [2021 AT&T Summer Learning Academy Extern](https://www.credly.com/badges/4bd67482-0ff2-4a8e-aa18-cc7124c5dd04?source=linked_in_profile)
 
 - 💼 **Work Experience**: 
-  - Computer Science Learning Assistant at Rutgers Learning Centers
+  - Computer Science Learning Assistant at Rutgers Learning Centers (current)
+  - Project Mentee at PSEG/Douglass WiSE (2024)
   - AI Studio Fellow at Google/Break Through Tech (2024)
-  - IT Internship with Wakefern (Point of Sales Team)
-  - Computer Science Research Scholar addressing the Proton Radius Puzzle
+  - IT Internship with Wakefern Food Corporation (2023)
+  - Computer Science Research Scholar with MUSE Research Group/Douglass WiSE (2022)
 
 ---
 
