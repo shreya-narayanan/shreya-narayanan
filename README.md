@@ -23,12 +23,14 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
   - [Physical Science Responsible Conduct of Research](https://www.citiprogram.org/verify/?w894ca570-399f-4864-81b0-9927d3cf212a-49259890)
   - [2021 AT&T Summer Learning Academy Extern](https://www.credly.com/badges/4bd67482-0ff2-4a8e-aa18-cc7124c5dd04?source=linked_in_profile)
 
-- 💼 **Work Experience**: 
+- 💼 **Professional Experience**: 
   - Computer Science Learning Assistant at Rutgers Learning Centers (current)
   - Project Mentee at PSEG/Douglass WiSE (2024)
   - AI Studio Fellow at Google/Break Through Tech (2024)
   - IT Internship with Wakefern Food Corporation (2023)
+  - Computer Science Peer Tutor (2022-2023)
   - Computer Science Research Scholar with MUSE Research Group/Douglass WiSE (2022)
+  - Summer Learning Academy Extern at AT&T (2021)
 
 ---
 
