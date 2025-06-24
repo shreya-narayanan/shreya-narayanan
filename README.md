@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student at Rut
 - 💼 **Professional Experience**: 
   - Computer Science Learning Assistant at Rutgers Learning Centers (2023-2025)
   - Project Mentee at Everest/Douglass WiSE (2025)
-  - Datathon Participant at Algorithmic Justice League (2025)
+  - Datathon Participant at Algorithmic Justice League/Break Through Tech (2025)
   - Project Mentee at PSEG/Douglass WiSE (2024)
   - AI Studio Fellow at Google/Break Through Tech (2024)
   - IT Internship with Wakefern Food Corporation (2023)
